@@ -2,7 +2,6 @@
 基于php与xml的在线多人实时对话系统。
 
 YuxuanWang-CHINA
-
 在线多人实时对话系统
 
 	index.php ——登录页面。
