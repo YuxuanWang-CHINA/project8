@@ -1,4 +1,15 @@
 <?php
+/*
+	YuxuanWang-CHINA 
+	project8
+	在线多人实时对话系统
+	
+	
+	MIT License
+	Copyright (c) 2018 Yuxuan_Wang
+*/
+?>
+<?php
 session_start();
 if(isset($_SESSION['project8_username']))
 {
