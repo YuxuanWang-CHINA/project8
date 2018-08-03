@@ -21,7 +21,7 @@ if(!isset($_SESSION['project8_username']))
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Main Page</title>
-<script src="http://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
 </head>
 
 <script>
